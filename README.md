@@ -15,12 +15,6 @@ A simple and intuitive **Flutter Habit Tracker** that allows users to add, manag
 
 ---
 
-## 📱 Screenshots
-
-> *(Add screenshots of your app UI here if available)*
-
----
-
 ## 🛠️ Technologies Used
 
 - Flutter & Dart  
