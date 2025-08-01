@@ -1,16 +1,41 @@
-# habittracker
+# 🧭 Habit Tracker App
 
-A new Flutter project.
+A simple and intuitive **Flutter Habit Tracker** that allows users to add, manage, and complete their daily tasks. The app uses **Firebase Authentication** for secure login and **Cloud Firestore** to store tasks in real-time for each user individually.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## 🚀 Features
 
-A few resources to get you started if this is your first Flutter project:
+- 🔐 User login with Firebase Authentication  
+- 📝 Add new tasks with a friendly UI  
+- ✅ Mark tasks as completed or delete them  
+- ☁️ Real-time updates using Firebase Cloud Firestore  
+- 👤 Tasks are stored per user (each user sees only their tasks)  
+- 🎨 Clean and modern design using Flutter Material UI
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+---
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 📱 Screenshots
+
+> *(Add screenshots of your app UI here if available)*
+
+---
+
+## 🛠️ Technologies Used
+
+- Flutter & Dart  
+- Firebase Authentication  
+- Cloud Firestore  
+- Material Design
+
+---
+
+## 📦 Getting Started
+
+To run this app locally:
+
+```bash
+git clone https://github.com/Ahmed-fadel1/Habittracker.git
+cd Habittracker
+flutter pub get
+flutter run
