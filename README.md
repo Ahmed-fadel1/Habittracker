@@ -14,6 +14,8 @@ A simple and intuitive **Flutter Habit Tracker** that allows users to add, manag
 - 🎨 Clean and modern design using Flutter Material UI
 
 ---
+[![Watch the demo](https://img.youtube.com/vi/IgrVITMFuHk/0.jpg)](https://youtube.com/shorts/6qW45NPiSLo?feature=share)
+
 
 ## 🛠️ Technologies Used
 
